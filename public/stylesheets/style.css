@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  align-items: center;
+  text-align: center;
+  font-style: normal;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+main {
+  display: grid;
+  place-items: center;
+  top: 5vh;
+  position: relative;
+}
+
+#ojos,
+.ojos {
+  position: absolute;
+}
